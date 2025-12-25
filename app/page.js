@@ -37,7 +37,7 @@ function FlowerScreen({ onNext }) {
     <section className="centerStage">
       {/* Placeholder (luego lo cambias por tu PNG) */}
       <button className="roseBtn" onClick={onNext} aria-label="Continuar">
-        <img className="rosePng" src="/images/rose.png" alt="Rosa" />
+        <img className="rosePng" src="images/rose.png" alt="Rosa" />
       </button>
 
 

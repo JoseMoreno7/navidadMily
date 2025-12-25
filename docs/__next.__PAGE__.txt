@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/navidadMily/_next/static/chunks/4fd93823156e59e8.js"],"ClientPageRoot"]
-3:I[81694,["/navidadMily/_next/static/chunks/7f083200e2e19391.js"],"default"]
+3:I[81694,["/navidadMily/_next/static/chunks/afba2f4d2385b6b3.js"],"default"]
 6:I[97367,["/navidadMily/_next/static/chunks/4fd93823156e59e8.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"q9UUNCJbFsywjTlnbbbVA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/navidadMily/_next/static/chunks/7f083200e2e19391.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"hGXqx9yV1n_mqWFjQzzr7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/navidadMily/_next/static/chunks/afba2f4d2385b6b3.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
